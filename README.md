@@ -1,5 +1,5 @@
-<h1>Hi!</h1>
-<h2>Iam Matteo and im a 15 Y/O beginning developer from belgium</h2>
+<h1 align="center">Hi!</h1>
+<h4 align="center">Iam Matteo and im a 15 Y/O beginning developer from belgium</h4>
 
 <br>
 
