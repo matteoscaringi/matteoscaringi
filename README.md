@@ -14,5 +14,5 @@
 - 📖 I like learning new technologies & concepts
 
 -----
-**My full portfolio can be found [here](https://matte0s.tk).**
+**My full portfolio can be found [here](https://matte0s.tk),**
 **Profile template from [keesvv](https://github.com/keesvv)**
