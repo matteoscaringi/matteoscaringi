@@ -1,5 +1,7 @@
-<h1>Hi!</h1>
+<center>
+    <h1>Hi!</h1>
 <h2>Iam Matteo and im a 15 Y/O beginning developer from belgium</h2>
+</center>
 
 <br>
 
