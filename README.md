@@ -9,9 +9,9 @@
 - 🔭 Primarily using
     - TS/JS, SCSS, & Svelte for development.
 
-- 👨‍💻 Passion for computers and tech since I was ten
+- 👨‍💻 Passion for computers and tech since I was 9.
 
-- 📖 I like learning new technologies & concepts
+- 📖 I like learning new languages.
 
 -----
 **My full portfolio can be found [here](https://matte0s.tk),**
