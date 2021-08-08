@@ -13,6 +13,6 @@
 -Im currently working on:
      -Nothing
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
     <img width=800 src="https://github-profile-trophy.vercel.app/?username=matte0s&column=8&theme=radical&no-frame=true"/>
 </a>
