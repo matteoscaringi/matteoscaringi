@@ -9,7 +9,7 @@
 
 - 📖 I like learning new languages.
 
-<h6>My GitHub Stats 📊</h6>
+<h1>My GitHub Stats 📊</h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matte0s)](https://github.com/anuraghazra/github-readme-stats)
 
