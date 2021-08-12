@@ -11,17 +11,8 @@
 
 <h2 align="center">My GitHub Stats 📊</h2>
 
-<p align="center">
-    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https//github-readme-stats.vercel.app/api?username=matte0s&theme=gruvbox" />
-</a>
-    
-</p>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matte0s&layout=compact&theme=gruvbox" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
