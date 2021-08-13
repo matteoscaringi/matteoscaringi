@@ -5,7 +5,7 @@
     - Nothing just yet, i am still learning new languages.
 
 - 🔭 Primarily using
-    - (TS/JS,) SCSS, Svelte for development
+    - (TS/JS,) SCSS and Svelte for development
 
 - 📖 I like learning new languages.
 
