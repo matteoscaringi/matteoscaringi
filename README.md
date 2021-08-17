@@ -13,7 +13,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matte0s&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matte0s&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matte0s&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
