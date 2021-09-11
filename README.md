@@ -6,6 +6,7 @@
 
 - 🔭 Primarily using
     - (TS/JS,) SCSS and Svelte for development
+    - Go for GTK programs
 
 - 📖 I like learning new languages.
 
