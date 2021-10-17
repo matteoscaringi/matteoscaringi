@@ -5,8 +5,8 @@
     - Nothing just yet, i am still learning new languages.
 
 - 🔭 Primarily using
-    - (TS/JS,) SCSS and Svelte for development
-    - Go for GTK programs
+    - (TS/JS,) SCSS and Svelte for development.
+    - Go for basic programs.
 
 - 📖 I like learning new languages.
 
