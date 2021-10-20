@@ -2,13 +2,15 @@
 <h4 align="center">My name is Matteo and i am a 15 Years old beginning developer.</h4>
 
 - 💻 Working on:
-    - Nothing just yet, i am still learning new languages.
+    - Nothing just yet, i am still things.
 
 - 🔭 Primarily using
     - (TS/JS,) SCSS and Svelte for development.
     - Go for basic programs.
 
-- 📖 I like learning new languages.
+- 📖 Stuff i like
+    - I like linux.
+    - i like learning new things.
 
 <h2 align="center">My GitHub Stats 📊</h2>
 
