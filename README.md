@@ -12,6 +12,10 @@
     - I like linux.
     - i like learning new things.
 
+- 📖 Stuff i hate.
+    - I hate Windows & Microsoft.
+    - People who dont take any advice.
+
 <h2 align="center">My GitHub Stats 📊</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeadlyFamous06&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
