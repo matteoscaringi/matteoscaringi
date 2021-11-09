@@ -5,7 +5,7 @@
     - Nothing just yet, i am still learning things.
 
 - 🔭 Primarily using
-    - Go for apps
+    - Go for apps.
     - TS/JS SCSS and Svelte for web development.
 
 - 📖 Stuff i like
