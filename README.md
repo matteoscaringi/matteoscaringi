@@ -5,8 +5,9 @@
     - Nothing just yet, i am still learning things.
 
 - 🔭 Primarily using
+    - Java for apps
     - (TS/JS,) SCSS and Svelte for development.
-    - Go for basic programs.
+    - Go for basic CLI programs.
 
 - 📖 Stuff i like
     - I like linux.
