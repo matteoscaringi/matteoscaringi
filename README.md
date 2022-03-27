@@ -13,8 +13,8 @@
 
 <h2 align="center">My GitHub Stats 📊</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeadlyFamous06&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeadlyFamous06&hide=shell,python&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4tte0s&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4tte0s&hide=shell,python&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
