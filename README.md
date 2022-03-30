@@ -8,7 +8,6 @@
     - Java
 
 - 📖 Stuff i like
-    - I like linux. (I daily drive Artix Linux Runit wich i installd manually)
     - i like learning new things.
 
 <h2 align="center">My GitHub Stats 📊</h2>
