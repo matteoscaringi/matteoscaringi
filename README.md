@@ -5,7 +5,7 @@
     - Nothing just yet, i am still learning things.
 
 - 🔭 Primarily using
-    - Go 
+    - Java
 
 - 📖 Stuff i like
     - I like linux. (I daily drive Artix Linux Runit wich i installd manually)
