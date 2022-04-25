@@ -5,7 +5,9 @@
     - Nothing just yet, i am still learning things.
 
 - 🔭 Primarily using
-    - Java
+    - C#
+    - Swift
+    - HTML & CSS
 
 - 📖 Stuff i like
     - i like learning new things.
