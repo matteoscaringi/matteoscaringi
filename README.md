@@ -5,9 +5,16 @@
     - Nothing just yet, i am still learning.
 
 <h2 align="center">My GitHub Stats 📊</h2>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4tte0s&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4tte0s&theme=gruvbox&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    
+<a href="https://github.com/ma4tte0s">
+  <img src="https://github-readme-stats.vercel.app/api?username=m4tte0s&theme=gruvbox">
+</a>
+<a href="https://github.com/ma4tte0s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4tte0s&theme=gruvbox&layout=compact">
+</a>  
+<br>
+</p>
 
 <h1 align="center">What i use</h1>
 
