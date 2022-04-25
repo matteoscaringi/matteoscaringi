@@ -1,9 +1,6 @@
 <h1 align="center">Hi there! 👋</h1>
 <h4 align="center">My name is Matteo and i am a 16 Years old beginning developer.</h4>
 
-- 💻 Working on:
-    - Nothing just yet, i am still learning.
-
 <h2 align="center">My GitHub Stats 📊</h2>
 <p align="center">
     
