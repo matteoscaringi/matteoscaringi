@@ -16,15 +16,19 @@
 <h1 align="center">What i use 💻</h1>
 
 #### 🛠️ Tools:
-[<img src="https://img.shields.io/badge/mac%20-%23343739.svg?&style=for-the-badge&logo=apple&logoColor=white" />](https://www.apple.com/macos/monterey/)
 [<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />](https://www.microsoft.com/en-gb/windows)
 [<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />](https://visualstudio.microsoft.com/)
-[<img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white" />](https://www.jetbrains.com/rider/)
-[<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />](https://developer.apple.com/xcode/)
+[<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />](https://code.visualstudio.com/)
 [<img src="https://img.shields.io/badge/git%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/)
 
 #### ⚙️ Stack:
 [<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />](https://www.apple.com/swift/)
-[<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />](https://www.gnu.org/software/bash/)
+[<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />](https://www.typescriptlang.org/)
+[<img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />](https://svelte.dev/)
+[<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />](https://tailwindcss.com/)
+
+
+
+
+
 
