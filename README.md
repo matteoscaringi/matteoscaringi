@@ -5,10 +5,10 @@
 <p align="center">
     
 <a href="https://github.com/ma4tte0s">
-  <img src="https://github-readme-stats.vercel.app/api?username=m4tte0s&theme=gruvbox">
+  <img src="https://github-readme-stats.vercel.app/api?username=matteoscaringi&theme=gruvbox">
 </a>
 <a href="https://github.com/ma4tte0s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4tte0s&hide=shell,python&theme=gruvbox&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteoscaringi&hide=shell,python&theme=gruvbox&layout=compact">
 </a>  
 <br>
 </p>
