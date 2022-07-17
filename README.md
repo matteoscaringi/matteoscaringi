@@ -4,10 +4,10 @@
 <h2 align="center">My GitHub Stats 📊</h2>
 <p align="center">
     
-<a href="https://github.com/ma4tte0s">
+<a href="https://github.com/matteoscaringi">
   <img src="https://github-readme-stats.vercel.app/api?username=matteoscaringi&theme=gruvbox">
 </a>
-<a href="https://github.com/ma4tte0s">
+<a href="https://github.com/matteoscaringi">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteoscaringi&hide=shell,python&theme=gruvbox&layout=compact">
 </a>  
 <br>
