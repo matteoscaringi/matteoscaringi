@@ -21,6 +21,11 @@
 [<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />](https://code.visualstudio.com/)
 [<img src="https://img.shields.io/badge/git%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/)
 
+#### 🖥️ Server Tools:
+[<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />](https://kernel.org/)
+[<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />](https://www.docker.com/)
+[<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />](https://www.nginx.com/)
+
 #### ⚙️ Stack:
 [<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [<img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />](https://svelte.dev/)
