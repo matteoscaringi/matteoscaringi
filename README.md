@@ -13,7 +13,7 @@
 <br>
 </p>
 
-<h1 align="center">What i use 💻</h1>
+<h1 align="center">💻 What i use</h1>
 
 #### 🛠️ Tools:
 [<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />](https://www.microsoft.com/en-gb/windows)
