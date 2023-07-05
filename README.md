@@ -1,18 +1,6 @@
 <h1 align="center">👋 Hi there!</h1>
 <h4 align="center">My name is Matteo and i am a student developer from Belgium!
 
-<h2 align="center">📊 My GitHub Stats</h2>
-<p align="center">
-    
-<a href="https://github.com/matteoscaringi">
-  <img src="https://github-readme-stats.vercel.app/api?username=matteoscaringi&theme=gruvbox">
-</a>
-<a href="https://github.com/matteoscaringi">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteoscaringi&hide=shell,python&theme=gruvbox&layout=compact">
-</a>  
-<br>
-</p>
-
 <h1 align="center">💻 What i use</h1>
 
 #### 🛠️ Tools:
