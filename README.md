@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there!</h1>
-<h4 align="center">My name is Matteo and i am a student developer from Belgium!
+<h4 align="center">My name is Matteo and i am a student in computer science from Belgium!
 
 <h1 align="center">💻 What i use</h1>
 
